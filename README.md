@@ -1,4 +1,4 @@
-# JSON-SERVER
+# JSON-SERVER and Faker
 
 https://github.com/typicode/json-server
 
